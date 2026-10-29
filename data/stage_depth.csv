@@ -1,0 +1,4 @@
+stage,cells,median_UMI,mean_UMI,total_UMI_M,median_genes_detected,count_recovery_max_err
+E8.5,16787,10857,12224,205.2,3836,0.0003
+E9.5,17057,11080,12698,216.6,3878,0.0005
+E10.5,24979,6723,8052,201.1,2869,0.0012

@@ -1,0 +1,5 @@
+,spearman_rho_delta_vs_level,n_genes_abs_delta_ge_0_25,n_down,n_up,mean_delta_top200_expressed
+E8.5 -> E9.5 (measured; depth ratio 1.02),-0.092,55.0,28.0,27.0,-0.043
+E9.5 -> E10.5 (measured),-0.414,462.0,390.0,72.0,-0.213
+"E9.5 -> E9.5 thinned to 0.607 (pure depth, no biology)",-0.95,0.0,0.0,0.0,-0.035
+E9.5 thinned -> E10.5 (depth-neutral step),-0.227,314.0,221.0,93.0,-0.179
